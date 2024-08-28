@@ -7,7 +7,7 @@ import Sidebar from "./sidebar/Sidebar.vue";
   <Sidebar/>
   <div class="container">
     <div class="mainTitle">
-      <h1>PEACH's</h1>
+      <h1>PEACH</h1>
       <h2>RMUTL SE-24</h2>
     </div>
     <button class="scrollDown">
